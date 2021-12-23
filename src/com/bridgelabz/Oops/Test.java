@@ -10,7 +10,7 @@ import java.util.Map;
 
 class Animal {
 //This is Test class
-    static String str = "Animal"; // This is test file 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
+    static String str = "Animal"; // This is test file
     public  Object m1() throws IOException{
         System.out.println("Animal version");
         return null;
