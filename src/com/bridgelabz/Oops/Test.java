@@ -10,7 +10,7 @@ import java.util.Map;
 
 class Animal {
 //This is Test class
-    static String str = "Animal"; // This is test file
+    static String str = "Animal"; // This is test file updated file
     public  Object m1() throws IOException{
         System.out.println("Animal version");
         return null;
